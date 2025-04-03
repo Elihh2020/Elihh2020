@@ -1,7 +1,7 @@
 Olá, eu sou Elias 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Eu estou estudando Vue e Python
+- 🔭 Hoje trabalho com front-end, back-end
+- 🌱 Eu estou estudando JavaScript, NextJs, TypeScript, SQL e Python
 
 <div align="center">
   <a href="https://github.com/Elihh2020">
