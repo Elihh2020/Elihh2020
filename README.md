@@ -1,6 +1,6 @@
 Olá, eu sou Elias 👋
 
-- 🔭 Hoje trabalho com front-end, back-end
+- 🔭 Hoje trabalho com front-end, desenvolvendo lading pages para empresas
 - 🌱 Eu estou estudando JavaScript, NextJs, TypeScript, SQL e Python
 
 <div align="center">
