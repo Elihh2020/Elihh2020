@@ -1,7 +1,14 @@
 Olá, eu sou Elias 👋
 
-- 🔭 Hoje trabalho com front-end, desenvolvendo lading pages para empresas
-- 🌱 Eu estou estudando JavaScript, NextJs, TypeScript, SQL e Python
+- 🔭 Desenvolvedor Front-end Júnior
+     Atualmente, estou focado em criar experiências digitais fluidas e responsivas para a web. Minha paixão é transformar ideias em interfaces de usuário funcionais e visualmente atraentes.
+- 🌱 Estou aprofundando meus conhecimentos em **Next.js** e **TypeScript** para construir aplicações web modernas e escaláveis. Além disso, estou explorando **SQL** para entender melhor a interação com bancos de dados.
+  💻 Habilidades Técnicas
+  * **Linguagens de Programação:** JavaScript, TypeScript, Python
+  * **Bibliotecas & Frameworks:** Next.js
+  * **Tecnologias Web:** HTML, CSS
+  * **Banco de Dados:** SQL
+  * **Ferramentas:** Git, GitHub, VS Code
 
 <div align="center">
   <a href="https://github.com/Elihh2020">
