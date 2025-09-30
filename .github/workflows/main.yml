@@ -27,6 +27,8 @@ jobs:
             dist/github-contribution-grid-snake.gif
           # AQUI está a mudança: Define a paleta para 'dracula'
           palette: dracula
+          color_snake: "#50fa7b" 
+          color_dots: "#ff79c6"
           
       # 3. Publicação do SVG e GIF gerados
       # A branch 'output' será criada se não existir
