@@ -2,10 +2,10 @@ Olá, eu sou Elias 👋
 
 - 🔭 Desenvolvedor Front-end Júnior,
      atualmente estou focado em criar experiências digitais fluidas e responsivas para a web. Minha paixão é transformar ideias em interfaces de usuário funcionais e visualmente atraentes.
-- 🌱 Estou aprofundando meus conhecimentos em **Next.js** e **TypeScript** para construir aplicações web modernas e escaláveis. Além disso, estou explorando **SQL** para entender melhor a interação com bancos de dados.
-  💻 Habilidades Técnicas
+- 🌱 Estou aprofundando meus conhecimentos em **Next.js** e **TypeScript** para construir aplicações web modernas. Além disso, estou cada vez mais aprendendo **SQL** para evoluir conhecimentos com bancos de dados.
+- 💻 Habilidades Técnicas
   * **Linguagens de Programação:** JavaScript, TypeScript, Python
-  * **Bibliotecas & Frameworks:** Next.js
+  * **Bibliotecas & Frameworks:** Next.js, Vue, React, Node
   * **Tecnologias Web:** HTML, CSS
   * **Banco de Dados:** SQL
   * **Ferramentas:** Git, GitHub, VS Code
@@ -19,6 +19,7 @@ Olá, eu sou Elias 👋
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">           
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
