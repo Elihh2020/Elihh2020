@@ -27,9 +27,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
           # Configuração da animação (opcional)
-          palette: github-light
-          color_snake: "#00FF00" 
-          color_dots: "#ff9900"
+          palette: dracula
+          color_snake: "#50fa7b" 
+          color_dots: "#ff79c6"
           
       # 3. Publicação do SVG e GIF gerados
       # A branch 'output' será criada se não existir
